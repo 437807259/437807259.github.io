@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "blogspot.com%2F2012%2F11%2Fblog-post_13.html&amppsig=AOvVaw39mbU-O1_woQHH2EVG7aL6&ampust=1619469212756000&ampsource=images&ampcd=vfe&ampved=0CAIQjRxqFwoTCLiWvpafmvACFQAAAAAdAAAAABAD.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -44,17 +44,26 @@
     "versionPublish": "5.3.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": false,
+    "mbrsiteDomain": "donatefo",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "blogspot.com%2F2012%2F11%2Fblog-post_13.html&amppsig=AOvVaw39mbU-O1_woQHH2EVG7aL6&ampust=1619469212756000&ampsource=images&ampcd=vfe&ampved=0CAIQjRxqFwoTCLiWvpafmvACFQAAAAAdAAAAABAD.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "التبرع بالطعام",
+        "meta_descr": "اهلا وسهلا",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/%D8%A8%D9%8A-223x226.jpg"
       },
       "components": [
         {
@@ -677,11 +686,11 @@
           "_sourceTheme": "mobirise5",
           "_customHTML": "<section class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-info\" href=\"https://forms.gle/RPMSHUdmvHsy8FET6\" data-app-placeholder=\"Type Text\" target=\"_blank\">التقييم من فضلك</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "svCRpKSXu0",
+          "_anchor": "content11-14",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content11-14"
+          "_params": {}
         }
       ]
     }
