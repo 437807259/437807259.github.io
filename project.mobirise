@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "blogspot.com%2F2012%2F11%2Fblog-post_13.html&amppsig=AOvVaw39mbU-O1_woQHH2EVG7aL6&ampust=1619469212756000&ampsource=images&ampcd=vfe&ampved=0CAIQjRxqFwoTCLiWvpafmvACFQAAAAAdAAAAABAD.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -47,15 +47,14 @@
     "publishChangesOnly": true
   },
   "pages": {
-    "blogspot.com%2F2012%2F11%2Fblog-post_13.html&amppsig=AOvVaw39mbU-O1_woQHH2EVG7aL6&ampust=1619469212756000&ampsource=images&ampcd=vfe&ampved=0CAIQjRxqFwoTCLiWvpafmvACFQAAAAAdAAAAABAD.html": {
+    "index.html": {
       "settings": {
         "main": true,
-        "title": "التبرع بالطعام",
-        "meta_descr": "اهلا وسهلا",
+        "title": "Home",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/%D8%A8%D9%8A-223x226.jpg"
+        "html_before": ""
       },
       "components": [
         {
